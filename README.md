@@ -1,0 +1,2 @@
+# mathematical-modeling2024D
+一个2024年d题python版本代码讲解仓库
